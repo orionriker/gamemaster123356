@@ -1,0 +1,4 @@
+- 👋 Hi, I’m gamemaster123356
+- 👀 I’m interested in coding and gaming
+- 🌱 I’m currently learning html,batch,arduino IDE
+- 💞️ I’m looking to make softwares
