@@ -54,9 +54,9 @@ Assembly           50%
 R                  30%<br>
 
 ## All my socials:
-Youtube: https://www.youtube.com/channel/UCujsmKFXTJjdHY3Pj5nYeSw
-Twitch: https://www.twitch.tv/gamemaster123356
-Twitter: https://www.twitter.com/gamemaster12333
-Instagram: https://www.instagram.com/gamemaster123356/
-Facebook: https://www.facebook.com/people/Masterof-Gaming/100074036856912/
+Youtube: https://www.youtube.com/channel/UCujsmKFXTJjdHY3Pj5nYeSw<br>
+Twitch: https://www.twitch.tv/gamemaster123356<br>
+Twitter: https://www.twitter.com/gamemaster12333<br>
+Instagram: https://www.instagram.com/gamemaster123356/<br>
+Facebook: https://www.facebook.com/people/Masterof-Gaming/100074036856912/<br>
 Reddit: https://www.reddit.com/user/gamemaster123356
