@@ -25,3 +25,15 @@ _“In order to be irreplaceable, one must always be different” – Coco Chane
 _“Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.” – Antoine de Saint – Exupery_<br>
 
 _“Simplicity is the soul of efficiency.” – Austin Freeman_
+
+```
+while(alive) {
+  Code();
+  Game();
+  Study();
+  Eat();
+  Sleep();
+  if(dead)
+    break;
+}
+```
