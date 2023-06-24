@@ -1,7 +1,7 @@
 # 👋 Hello There! I’m gamemaster123356
 - 🌟 Greetings! I'm a passionate teenager representing the GEN-Z generation. At just 14 years old, I'm fueled by curiosity and a deep love for all things tech.
 
-- 👨‍💻 My interests span a wide spectrum, including programming, gaming, AI, and game development. I thrive on exploring the intricate world of code, constantly pushing boundaries and seeking new possibilities.
+- 👨‍💻 My interests span a wide spectrum, including programming, gaming, artificial intelligence, and game development. I thrive on exploring the intricate world of code, constantly pushing boundaries and seeking new possibilities.
 
 - 🔧 With expertise in 28 programming languages, I'm equipped with a versatile toolkit that empowers me to craft innovative solutions and bring ideas to life through elegant code
 
