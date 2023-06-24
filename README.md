@@ -10,7 +10,7 @@
 ## My Website
 [www.gamemaster123356.lol](https://www.gamemaster123356.lol)
 
-## My Socials:
+## My Socials
 Discord: gamemaster123356<br>
 Youtube: https://www.youtube.com/@gamemaster123356<br>
 Twitch: https://www.twitch.tv/gamemaster123356<br>
