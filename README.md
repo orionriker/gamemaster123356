@@ -18,4 +18,10 @@ Reddit: https://www.reddit.com/user/gamemaster123356
 ## Quotes
 _“Knowledge is power” – Francis Bacon_<br>
 
-_“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler_
+_“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler_<br>
+
+_“In order to be irreplaceable, one must always be different” – Coco Chanel_<br>
+
+_“Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.” – Antoine de Saint – Exupery_<br>
+
+_“Simplicity is the soul of efficiency.” – Austin Freeman_
