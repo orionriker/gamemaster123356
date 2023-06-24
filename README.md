@@ -7,6 +7,7 @@
 https://www.gamemaster123356.lol
 
 ## All my socials:
+Discord: gamemaster123356
 Youtube: https://www.youtube.com/channel/UCujsmKFXTJjdHY3Pj5nYeSw<br>
 Twitch: https://www.twitch.tv/gamemaster123356<br>
 Twitter: https://www.twitter.com/gamemaster12335<br>
