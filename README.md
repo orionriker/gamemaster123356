@@ -20,7 +20,7 @@ _“Knowledge is power” — Francis Bacon_<br>
 
 _“Everybody should learn to program a computer… because it teaches you how to think.” — Steve Jobs_<br>
 
-_“In order to be irreplaceable, one must always be different” — Coco Chanel_<br>
+_“Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.” — Linus Torvalds_<br>
 
 _“Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.” — Antoine de Saint — Exupery_<br>
 
