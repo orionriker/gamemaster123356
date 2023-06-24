@@ -15,4 +15,6 @@ Instagram: https://www.instagram.com/gamemaster123356/<br>
 Facebook: https://www.facebook.com/people/Masterof-Gaming/100074036856912/<br>
 Reddit: https://www.reddit.com/user/gamemaster123356
 
-“Knowledge is power” – Francis Bacon
+## Quotes
+“Knowledge is power” – Francis Bacon<br>
+“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
