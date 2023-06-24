@@ -15,6 +15,9 @@ Instagram: https://www.instagram.com/gamemaster123356/<br>
 Facebook: https://www.facebook.com/people/Masterof-Gaming/100074036856912/<br>
 Reddit: https://www.reddit.com/user/gamemaster123356
 
+## Stats
+![gamemaster123356's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamemaster123356&show_icons=true&theme=holi)
+
 ## Quotes
 _“Knowledge is power” — Francis Bacon_<br>
 
