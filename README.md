@@ -24,4 +24,4 @@ _“Most good programmers do programming not because they expect to get paid or 
 
 _“Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.” — Antoine de Saint — Exupery_<br>
 
-_“Simplicity is the soul of efficiency.” – Austin Freeman_
+_“Simplicity is the soul of efficiency.” — Austin Freeman_
