@@ -17,4 +17,5 @@ Reddit: https://www.reddit.com/user/gamemaster123356
 
 ## Quotes
 > _“Knowledge is power” – Francis Bacon_<br>
+
 > _“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler_
