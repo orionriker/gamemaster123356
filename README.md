@@ -16,24 +16,12 @@ Facebook: https://www.facebook.com/people/Masterof-Gaming/100074036856912/<br>
 Reddit: https://www.reddit.com/user/gamemaster123356
 
 ## Quotes
-_“Knowledge is power” – Francis Bacon_<br>
+_“Knowledge is power” — Francis Bacon_<br>
 
-_“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler_<br>
+_“Everybody should learn to program a computer… because it teaches you how to think.” — Steve Jobs_<br>
 
-_“In order to be irreplaceable, one must always be different” – Coco Chanel_<br>
+_“In order to be irreplaceable, one must always be different” — Coco Chanel_<br>
 
-_“Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.” – Antoine de Saint – Exupery_<br>
+_“Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.” — Antoine de Saint — Exupery_<br>
 
 _“Simplicity is the soul of efficiency.” – Austin Freeman_
-
-```
-while(alive) {
-  Code();
-  Game();
-  Study();
-  Eat();
-  Sleep();
-  if(dead)
-    break;
-}
-```
