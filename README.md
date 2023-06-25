@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/gamemaster123356/gamemaster123356/673fdea9c09bbc2d2aa354d1d13a9610423906a7/banner.svg)
+![banner](https://raw.githubusercontent.com/gamemaster123356/gamemaster123356/main/banner.png)
 
 # 👋 Hello There! I’m gamemaster123356
 - 🌟 Greetings! I'm a passionate teenager representing the GEN-Z generation. At just 14 years old, I'm fueled by curiosity and a deep love for all things tech.
