@@ -14,12 +14,12 @@
 
 ## My Socials
 Discord: gamemaster123356<br>
-Youtube: https://www.youtube.com/@gamemaster123356<br>
-Twitch: https://www.twitch.tv/gamemaster123356<br>
-Twitter: https://www.twitter.com/gamemaster12335<br>
-Instagram: https://www.instagram.com/gamemaster123356/<br>
-Facebook: https://www.facebook.com/people/Masterof-Gaming/100074036856912/<br>
-Reddit: https://www.reddit.com/user/gamemaster123356
+Youtube: [@gamemaster123356](https://www.youtube.com/@gamemaster123356)<br>
+Twitch: [gamemaster123356](https://www.twitch.tv/gamemaster123356)<br>
+Twitter: [gamemaster12335](https://www.twitter.com/gamemaster12335)<br>
+Instagram: [gamemaster123356](https://www.instagram.com/gamemaster123356/)<br>
+Facebook: [Masterof-Gaming](https://www.facebook.com/people/Masterof-Gaming/100074036856912/)<br>
+Reddit: [gamemaster123356](https://www.reddit.com/user/gamemaster123356)
 
 ## Stats
 ![gamemaster123356's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamemaster123356&show_icons=true&theme=holi)
