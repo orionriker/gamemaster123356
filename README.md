@@ -14,7 +14,7 @@
 
 ## My Socials
 Discord: gamemaster123356<br>
-Youtube: [@gamemaster123356](https://www.youtube.com/@gamemaster123356)<br>
+Youtube: [gamemaster1233](https://www.youtube.com/@gamemaster12335)<br>
 Twitch: [gamemaster123356](https://www.twitch.tv/gamemaster123356)<br>
 Twitter: [gamemaster12335](https://www.twitter.com/gamemaster12335)<br>
 Instagram: [gamemaster123356](https://www.instagram.com/gamemaster123356/)<br>
