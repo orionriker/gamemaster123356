@@ -1,4 +1,4 @@
-![www.gamemaster123356.lol](https://www.gamemaster123356.lol)
+![banner](https://raw.githubusercontent.com/gamemaster123356/gamemaster123356/main/banner.svg)
 
 # 👋 Hello There! I’m gamemaster123356
 - 🌟 Greetings! I'm a passionate teenager representing the GEN-Z generation. At just 14 years old, I'm fueled by curiosity and a deep love for all things tech.
