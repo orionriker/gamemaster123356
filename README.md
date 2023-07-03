@@ -23,7 +23,7 @@ Reddit: [gamemaster123356](https://www.reddit.com/user/gamemaster123356)
 
 ## Stats
 ![gamemaster123356's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamemaster123356&show_icons=true&hide_border=true&theme=holi)
-![GitHub Streak](https://streak-stats.demolab.com?user=gamemaster123356&hide_border=true&theme=holi-theme)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=gamemaster123356&hide_border=true&theme=holi-theme)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamemaster123356&layout=compact&count_private=true&langs_count=10&hide_border=true&theme=holi)
 
 ## Quotes
