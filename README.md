@@ -9,9 +9,6 @@
 
 - 🚀 Join me on my exciting journey as we embark on thrilling projects, explore the realms of Artificial Intelligence, and unlock new levels of creativity together. Together, let's shape the future through technology!
 
-## My Website
-[www.gamemaster123356.lol](https://www.gamemaster123356.lol)
-
 ## My Socials
 Discord: gamemaster123356<br>
 Youtube: [gamemaster1233](https://www.youtube.com/@gamemaster12335)<br>
