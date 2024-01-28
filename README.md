@@ -5,7 +5,7 @@
 
 - 👨‍💻 My interests span a wide spectrum, including Programming, Gaming, Artificial Intelligence, Game Development, and Cyber Security. I thrive on exploring the intricate world of code, constantly pushing boundaries and seeking new possibilities.
 
-- 🔧 With expertise in 29 programming languages, I'm equipped with a versatile toolkit that empowers me to craft innovative solutions and bring ideas to life through elegant code
+- 🔧 With expertise in 30 programming languages, I'm equipped with a versatile toolkit that empowers me to craft innovative solutions and bring ideas to life through elegant code
 
 - 🚀 Join me on my exciting journey as we embark on thrilling projects, explore the realms of Artificial Intelligence, and unlock new levels of creativity together. Together, let's shape the future through technology!
 
