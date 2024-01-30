@@ -1,7 +1,7 @@
 ![banner](https://github.com/orionriker/orionriker/blob/main/assets/ReadME-Banner.png?raw=true)
 
 # 👋 Hello There! I’m Orion C. Riker
-- 🌟 Greetings! I'm a passionate teenager representing the GEN-Z generation. At just 14 years old, I'm fueled by curiosity and a deep love for all things tech.
+- 🌟 Greetings! I'm a passionate teenager representing the GEN-Z generation. At just 15 years old, I'm fueled by curiosity and a deep love for all things tech.
 
 - 👨‍💻 My interests span a wide spectrum, including Programming, Gaming, Artificial Intelligence, Game Development, and Cyber Security. I thrive on exploring the intricate world of code, constantly pushing boundaries and seeking new possibilities.
 
