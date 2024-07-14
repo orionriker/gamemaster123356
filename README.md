@@ -1,5 +1,3 @@
-![banner](https://github.com/orionriker/orionriker/blob/main/assets/ReadME-Banner.png?raw=true)
-
 # 👋 Hello There! I’m Orion C. Riker
 - 🌟 Greetings! I'm a passionate teenager representing the GEN-Z generation. At just 15 years old, I'm fueled by curiosity and a deep love for all things tech.
 
