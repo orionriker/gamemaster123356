@@ -15,10 +15,10 @@ Twitter: [orionriker](https://www.twitter.com/orionriker)<br>
 Reddit: [orionriker](https://www.reddit.com/user/gamemaster123356)
 
 ## Stats
-<div style="display: flex; flex-direction: column; justify-content: center; justify-items: center;">
-  ![orionriker's GitHub stats](https://github-readme-stats.vercel.app/api?username=orionriker&show_icons=true&hide_border=true&theme=holi)<br>
-  ![GitHub Streak](https://streak-stats.demolab.com?user=orionriker&hide_border=true&theme=holi-theme)<br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orionriker&layout=compact&count_private=true&langs_count=10&hide_border=true&theme=holi)
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=orionriker&show_icons=true&hide_border=true&theme=holi" alt="orionriker's GitHub stats"><br>
+  <img src="https://streak-stats.demolab.com?user=orionriker&hide_border=true&theme=holi-theme" alt="GitHub Streak"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orionriker&layout=compact&count_private=true&langs_count=10&hide_border=true&theme=holi" alt="Top Langs">
 </div>
 
 ## Quotes
