@@ -15,9 +15,11 @@ Twitter: [orionriker](https://www.twitter.com/orionriker)<br>
 Reddit: [orionriker](https://www.reddit.com/user/gamemaster123356)
 
 ## Stats
-![orionriker's GitHub stats](https://github-readme-stats.vercel.app/api?username=orionriker&show_icons=true&hide_border=true&theme=holi)<br>
-![GitHub Streak](https://streak-stats.demolab.com?user=orionriker&hide_border=true&theme=holi-theme)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orionriker&layout=compact&count_private=true&langs_count=10&hide_border=true&theme=holi)
+<div style="display: flex; flex-direction: column; justify-content: center; justify-items: center;">
+  ![orionriker's GitHub stats](https://github-readme-stats.vercel.app/api?username=orionriker&show_icons=true&hide_border=true&theme=holi)<br>
+  ![GitHub Streak](https://streak-stats.demolab.com?user=orionriker&hide_border=true&theme=holi-theme)<br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orionriker&layout=compact&count_private=true&langs_count=10&hide_border=true&theme=holi)
+</div>
 
 ## Quotes
 _“Knowledge is power” — Francis Bacon_<br>
