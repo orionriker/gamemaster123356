@@ -10,12 +10,8 @@
 - 🚀 Join me on my exciting journey as we embark on thrilling projects, explore the realms of Artificial Intelligence, and unlock new levels of creativity together. Together, let's shape the future through technology!
 
 ## My Socials
-Discord: orionriker<br>
-Youtube: [orionriker](https://www.youtube.com/@gamemaster12335)<br>
-Twitch: [orionriker](https://www.twitch.tv/gamemaster123356)<br>
-Twitter: [orionriker](https://www.twitter.com/gamemaster12335)<br>
-Instagram: [orionriker](https://www.instagram.com/gamemaster123356/)<br>
-Facebook: [Masterof-Gaming](https://www.facebook.com/people/Masterof-Gaming/100074036856912/)<br>
+Youtube: [orionriker](https://www.youtube.com/@oprionriker)<br>
+Twitter: [orionriker](https://www.twitter.com/orionriker)<br>
 Reddit: [orionriker](https://www.reddit.com/user/gamemaster123356)
 
 ## Stats
