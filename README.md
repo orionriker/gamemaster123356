@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/orionriker/orionriker/a8bc4dd404c0efd6ce9c835c28383ae6232793fd/Profile_Header.svg" width="100%" height="auto" />
 
 # 👋 Hello There! I’m Orion C. Riker
-- 🌟 Greetings! I'm a passionate teenager representing the GEN-Z generation. At just 15 years old, I'm fueled by curiosity and a deep love for all things tech.
+- 🌟 I'm a passionate teenager representing the GEN-Z generation. At just 15 years old, I'm fueled by curiosity and a deep love for all things tech.
 
 - 👨‍💻 My interests span a wide spectrum, including Programming, Gaming, Artificial Intelligence, Game Development, and Cyber Security. I thrive on exploring the intricate world of code, constantly pushing boundaries and seeking new possibilities.
 
@@ -22,12 +22,17 @@ Reddit: [orionriker](https://www.reddit.com/user/gamemaster123356)
 </p>
 
 ## Quotes
-_“Knowledge is power” — Francis Bacon_<br>
+_“Knowledge is power”_<br>
+_— Francis Bacon_<br>
 
-_“Everybody should learn to program a computer… because it teaches you how to think.” — Steve Jobs_<br>
+_“Everybody should learn to program a computer… because it teaches you how to think.”_<br>
+_— Steve Jobs_<br>
 
-_“Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.” — Linus Torvalds_<br>
+_“Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.”_<br>
+_— Linus Torvalds_<br>
 
-_“Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.” — Antoine de Saint — Exupery_<br>
+_“Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.”_<br>
+_— Antoine de Saint — Exupery_<br>
 
-_“Simplicity is the soul of efficiency.” — Austin Freeman_
+_“Simplicity is the soul of efficiency.”_<br>
+_— Austin Freeman_
