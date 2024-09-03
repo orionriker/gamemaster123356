@@ -1,4 +1,4 @@
-[header](https://raw.githubusercontent.com/orionriker/orionriker/a8bc4dd404c0efd6ce9c835c28383ae6232793fd/Profile_Header.svg)
+![header](https://raw.githubusercontent.com/orionriker/orionriker/a8bc4dd404c0efd6ce9c835c28383ae6232793fd/Profile_Header.svg)
 
 # 👋 Hello There! I’m Orion C. Riker
 - 🌟 Greetings! I'm a passionate teenager representing the GEN-Z generation. At just 15 years old, I'm fueled by curiosity and a deep love for all things tech.
