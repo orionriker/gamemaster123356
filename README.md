@@ -10,7 +10,7 @@
 - 🚀 Join me on my exciting journey as we embark on thrilling projects, explore the realms of Artificial Intelligence, and unlock new levels of creativity together. Together, let's shape the future through technology!
 
 ## My Socials
-Youtube: [orionriker](https://www.youtube.com/@oprionriker)<br>
+Youtube: [orionriker](https://www.youtube.com/@orionriker)<br>
 Twitter: [orionriker](https://www.twitter.com/orionriker)<br>
 Reddit: [orionriker](https://www.reddit.com/user/gamemaster123356)
 
