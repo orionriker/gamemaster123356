@@ -11,7 +11,7 @@
 
 ## My Socials
 Youtube: [orionriker](https://www.youtube.com/@orionriker)<br>
-Twitter: [orionriker](https://www.twitter.com/orionriker)<br>
+𝕏 (Formerly Twitter): [orionriker](https://www.twitter.com/orionriker)<br>
 Reddit: [orionriker](https://www.reddit.com/user/orionriker)
 
 ## Stats
