@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/orionriker/orionriker/refs/heads/main/v2_Profile_Header.svg" width="100%" height="auto" />
+<img src="https://raw.githubusercontent.com/orionriker/orionriker/refs/heads/main/v2.1_Profile_Header.svg" width="100%" height="auto" />
 
 # 👋 Hello There! I’m Orion C. Riker
 - 🌟 I'm a passionate teenager representing the GEN-Z generation. At just 15 years old, I'm fueled by curiosity and a deep love for all things tech.
